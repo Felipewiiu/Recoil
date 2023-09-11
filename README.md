@@ -11,4 +11,12 @@ In the project directory, you can run:
 # Libs utilizadas
 
 -- Recoil -- comando de instalação:  npm i recoil
-# Recoil
+
+
+# RecoilRoot
+
+-- Todo o componente que precise ter acesso aos estados do Recoil precisam estar dentro de <RecoilRoote>
+
+# Sobre o arquivo atom.ts
+
+    Esse arquivo é guardado um atamo que no conceito do do recoil representa um estado que é composto por vários átomos.
