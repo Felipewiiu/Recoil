@@ -26,7 +26,7 @@ Esse arquivo é guardado um átamo que no conceito do recoil representa um estad
 Essa função tem um propósito específico: permitir que você atualize o estado global gerenciado pelo Recoil.
 Utilizei o hook useSetRecoilState para adicionar novos itens à lista de eventos.
 
-# useRecoilValue
+# useRecoilValue para que serve?
 
 Utilizei o hook useRecoilValue para ter acesso à lista de eventos.
 
