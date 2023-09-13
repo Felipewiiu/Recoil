@@ -1,5 +1,5 @@
 import { IEvento } from "../interfaces/IEvento";
-import { atom} from 'recoil';
+import { atom } from 'recoil';
 
 export const listaDeEventosState = atom<IEvento[]>({
     key: 'listaDeEventosState',
